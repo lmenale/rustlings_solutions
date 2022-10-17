@@ -1,6 +1,6 @@
 # rustlings 🦀❤️
 
-Greetings and welcome to `rustlings` 5.2.1 version. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
+Greetings and welcome to `rustlings` **5.2.1 version**. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
 
 
 Alternatively, for a first-time Rust learner, there are several other resources:
